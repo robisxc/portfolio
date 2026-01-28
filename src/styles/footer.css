@@ -1,0 +1,33 @@
+.footer {
+  background-color: #FFFFFF;
+  padding: 15px 15px 25px 15px;
+  border-top: 40px solid #6AB2D1;
+  display: flex;
+  justify-content: space-between;
+  max-width: 100%;
+}
+
+.footer p {
+  color: #181818;
+  border-radius: 5px;
+  margin: 0px;
+  font-size: 1em;
+  font-family: "Questrial", serif;
+  line-height: 1.5;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.footer-left {
+  text-align: left;
+}
+
+.footer-right {
+  text-align: right;
+}
