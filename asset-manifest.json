@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6caf9005.css",
+    "main.js": "/portfolio/static/js/main.201d0e29.js",
+    "static/js/488.a0828f18.chunk.js": "/portfolio/static/js/488.a0828f18.chunk.js",
+    "static/media/skanaus4.png": "/portfolio/static/media/skanaus4.cb10df258862259d2523.png",
+    "static/media/skanaus1.png": "/portfolio/static/media/skanaus1.7adaf51fe55595c5939a.png",
+    "static/media/skanaus2.png": "/portfolio/static/media/skanaus2.d9f9894d8dbecfe6e93a.png",
+    "static/media/skanaus3.png": "/portfolio/static/media/skanaus3.a25c0490002d821f5ca2.png",
+    "static/media/illustration2.png": "/portfolio/static/media/illustration2.52847e1d4aac2a80c1d7.png",
+    "static/media/mobile-eu1.png": "/portfolio/static/media/mobile-eu1.bebb56cf89e1d1afb9d5.png",
+    "static/media/mobile-eu3.png": "/portfolio/static/media/mobile-eu3.98d002613567ac576da8.png",
+    "static/media/dealmate1.png": "/portfolio/static/media/dealmate1.46b801b785e74f8e6a46.png",
+    "static/media/dealmate2.png": "/portfolio/static/media/dealmate2.13dd6f9efc73bd831405.png",
+    "static/media/profile_photo.jpg": "/portfolio/static/media/profile_photo.cb19fd0ca89a5e2ce862.jpg",
+    "static/media/mobile-eu2.png": "/portfolio/static/media/mobile-eu2.c451cc6ddb7eb6ef4834.png",
+    "static/media/dealmate3.png": "/portfolio/static/media/dealmate3.97d2b71c527593eed7c3.png",
+    "static/media/illustration1.png": "/portfolio/static/media/illustration1.60dae5bce1054f044e93.png",
+    "static/media/skanaus5.png": "/portfolio/static/media/skanaus5.7397fdba7cf81eb288f0.png",
+    "static/media/KyivTypeSans-Bold-.otf": "/portfolio/static/media/KyivTypeSans-Bold-.edc7c1cea451f12b73f7.otf",
+    "static/media/KyivTypeSans-Regular-.otf": "/portfolio/static/media/KyivTypeSans-Regular-.95e2f023646b38f0d5b1.otf",
+    "static/media/KyivTypeSans-Medium-.otf": "/portfolio/static/media/KyivTypeSans-Medium-.ce9cd372ca0d396fbc81.otf",
+    "index.html": "/portfolio/index.html",
+    "main.6caf9005.css.map": "/portfolio/static/css/main.6caf9005.css.map",
+    "main.201d0e29.js.map": "/portfolio/static/js/main.201d0e29.js.map",
+    "488.a0828f18.chunk.js.map": "/portfolio/static/js/488.a0828f18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6caf9005.css",
+    "static/js/main.201d0e29.js"
+  ]
+}
