@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6caf9005.css",
+    "main.css": "/portfolio/static/css/main.1bd11b8b.css",
     "main.js": "/portfolio/static/js/main.a3487971.js",
     "static/js/488.a0828f18.chunk.js": "/portfolio/static/js/488.a0828f18.chunk.js",
     "static/media/skanaus4.png": "/portfolio/static/media/skanaus4.cb10df258862259d2523.png",
@@ -21,12 +21,12 @@
     "static/media/KyivTypeSans-Regular-.otf": "/portfolio/static/media/KyivTypeSans-Regular-.95e2f023646b38f0d5b1.otf",
     "static/media/KyivTypeSans-Medium-.otf": "/portfolio/static/media/KyivTypeSans-Medium-.ce9cd372ca0d396fbc81.otf",
     "index.html": "/portfolio/index.html",
-    "main.6caf9005.css.map": "/portfolio/static/css/main.6caf9005.css.map",
+    "main.1bd11b8b.css.map": "/portfolio/static/css/main.1bd11b8b.css.map",
     "main.a3487971.js.map": "/portfolio/static/js/main.a3487971.js.map",
     "488.a0828f18.chunk.js.map": "/portfolio/static/js/488.a0828f18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6caf9005.css",
+    "static/css/main.1bd11b8b.css",
     "static/js/main.a3487971.js"
   ]
 }
